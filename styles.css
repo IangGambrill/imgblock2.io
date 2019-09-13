@@ -1,6 +1,178 @@
 .topbar{
-    grid-template-columns: 150px;
+    grid-template-columns: 514px;
     height: 42px;
     width: 100%;
     background-color: red;
+    display: grid;
+    position: fixed;
+    margin-top: -42px;
+}
+.login{
+    display: grid;
+    height: 42;
+    width: 514px;
+    background-color: yellow;
+
+}
+.topbanneradd{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 288px;
+    width: 100%;
+    background-color: red;
+    margin-top: 42px; 
+
+}
+.Bannerpicture{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 192px;
+    width: 411px;
+    margin-top:  56px;
+    margin-left: 126px; 
+    background-color:yellow;
+}
+.fourmsheadder{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 121px;
+    width: 710px;
+    margin-top:  36px;
+    margin-left: 156px; 
+    background-color:red;
+}
+.historylinks{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 25px;
+    width: 478px;
+    margin-top:  0px;
+    margin-left: 16px; 
+    background-color:yellow;
+}
+.genraldiscussion{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 691px;
+    margin-top:  20px;
+    margin-left: 13px; 
+    background-color:yellow;
+}
+.importantinformation{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 203px;
+    width: 1000px;
+    margin-top:  16px;
+    margin-left: 156px; 
+    background-color:red
+}
+.fourmrules{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 411px;
+    margin-top:  50px;
+    margin-left: 13px; 
+    background-color:yellow;
+}
+.legal{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 411px;
+    margin-top:  5px;
+    margin-left: 13px; 
+    background-color:yellow; 
+}
+.subfourms{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 304px;
+    width: 1000px;
+    margin-top:  1px;
+    margin-left: 156px; 
+    background-color:red
+}
+.tutorials{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 800px;
+    margin-top:  40px;
+    margin-left: 13px; 
+    background-color:yellow;
+}
+.feedback{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 800px;
+    margin-top:  1px;
+    margin-left: 13px; 
+    background-color:yellow; 
+}
+.discussions{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 800px;
+    margin-top:  1px;
+    margin-left: 13px; 
+    background-color:yellow; 
+}
+.fourmposts{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 4500px;
+    width: 1000px;
+    margin-top:  1px;
+    margin-left: 156px; 
+    background-color:red
+}
+.post1{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 800px;
+    margin-top:  66px;
+    margin-left: 13px; 
+    background-color:yellow;
+}
+.post{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 66px;
+    width: 800px;
+    margin-top:  10px;
+    margin-left: 13px; 
+    background-color:yellow; 
+}
+.browsinginfo{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 255px;
+    width: 1000px;
+    margin-top:  80px;
+    margin-left: 156px; 
+    background-color:red
+}
+.aciveusers{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 50px;
+    width: 312px;
+    margin-top:  5px;
+    margin-left: 13px; 
+    background-color:yellow; 
+}
+.fourmlegend{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 190px;
+    width: 600px;
+    margin-top:  -30px;
+    margin-left: 390px; 
+    background-color:yellow;
 }
